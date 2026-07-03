@@ -1,3 +1,5 @@
+Educational frontend project. Not affiliated with Amazon.
+
 A simple Amazon homepage clone built using **HTML and CSS**. The project focuses on recreating Amazon's homepage layout while practicing page structure, styling, Flexbox, and responsive design concepts. Smooth scrolling is implemented using Locomotive Scroll.
 
 
