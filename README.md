@@ -21,6 +21,12 @@ A simple Amazon homepage clone built using **HTML and CSS**. The project focuses
 - Font Awesome
 - Locomotive Scroll
 
+## 📷 Preview
+<p align="center">
+  <img src="assets/Screenshot1.png" width="700">
+  <img src="assets/Screenshot2.png" width="700">
+</p>
+
 ## 📂 Project Structure
 ```bash
 e-commerce-UI-clone/
@@ -30,7 +36,7 @@ e-commerce-UI-clone/
 │── README.md
 │
 ├── assets/
-│   │── amazon_logo.png
+│   │── logo.png
 │   │── hero_section.jpg
 │   │── box1_image.jpg
 │   │── box2_image.jpg
@@ -40,15 +46,9 @@ e-commerce-UI-clone/
 │   │── box6_image.jpg
 │   │── box7_image.jpg
 │   │── box8_image.jpg
-│   │── screenshot.png
-│   │── screenshot2.png
+│   │── Screenshot1.png
+│   │── Screenshot2.png
 ```
-
-## 📷 Preview
-<p align="center">
-  <img src="assets/screenshot.png" width="700">
-</p>
-
 
 ## 📖 What I Learned
 While building this project, I practiced:
