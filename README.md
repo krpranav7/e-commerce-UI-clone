@@ -1,6 +1,6 @@
-Educational frontend project. Not affiliated with Amazon.
+Educational frontend project inspired by Amazon's homepage. Not affiliated with Amazon.
 
-A simple Amazon homepage clone built using **HTML and CSS**. The project focuses on recreating Amazon's homepage layout while practicing page structure, styling, Flexbox, and responsive design concepts. Smooth scrolling is implemented using Locomotive Scroll.
+Shopi is a responsive e-commerce frontend built using **HTML5**, **CSS3**, **Font Awesome**, and **Locomotive Scroll**. The project recreates the structure of a modern e-commerce website while practicing page layout, Flexbox, reusable UI components, and smooth scrolling.
 
 
 ## 🚀 Live Demo
