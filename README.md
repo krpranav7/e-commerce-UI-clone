@@ -1,8 +1,10 @@
+Educational frontend project. Not affiliated with Amazon.
+
 A simple Amazon homepage clone built using **HTML and CSS**. The project focuses on recreating Amazon's homepage layout while practicing page structure, styling, Flexbox, and responsive design concepts. Smooth scrolling is implemented using Locomotive Scroll.
 
 
 ## 🚀 Live Demo
-[Click here to view the project](https://krpranav7.github.io/Amazon_clone/)
+[Click here to view the project]()
 
 ## 📌 Features
 - Amazon-style navbar
@@ -21,7 +23,7 @@ A simple Amazon homepage clone built using **HTML and CSS**. The project focuses
 
 ## 📂 Project Structure
 ```bash
-Amazon_clone/
+e-commerce-UI-clone/
 │── index.html
 │── style.css
 │── script.js
@@ -67,4 +69,4 @@ While building this project, I practiced:
 - Recreate additional Amazon UI sections
 
 ## 👨‍💻 Author
-Pranav Kumar
+krpranav7
